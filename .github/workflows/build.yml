@@ -75,4 +75,4 @@ jobs:
         - name: Run GatorGrader
           if: always()
           run:  |
-            gradle grade --debug
+            gradle grade
