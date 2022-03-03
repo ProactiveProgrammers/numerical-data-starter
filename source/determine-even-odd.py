@@ -1,3 +1,12 @@
+# TODO: Make sure that you understand how this function
+# uses modular arithmetic to perform a computation
+
+# TODO: Make sure that you understand how this function
+# uses type annotations to describe its input and output
+
+# TODO: Make sure that you understand how this function
+# uses conditional logic to make a decision
+
 def determine_even_odd(value: int) -> str:
     """Determine if a number is even or odd."""
     # use modular arithmetic to determine if the number is even
