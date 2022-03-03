@@ -1,7 +1,7 @@
 # Numerical Data
 
-## Assigned: Monday, September 13, 2021
-## Due: Friday, September 17, 2021
+## Assigned: Thursday, March 3, 2022
+## Due: Thursday, March 10, 2022
 
 After cloning this repository to your computer, please take the following steps:
 
