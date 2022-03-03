@@ -24,10 +24,10 @@ TODO: Provide a one-paragraph response to this question.
 
 TODO: Provide a one-paragraph response to this question.
 
-#### Does the computation `10.0 * 0.1` produce the value of `1.0`? Why?
+#### Does the computation `10.0 * 0.1` produce the value of `1.0`? Why or why not?
 
 TODO: Provide a one-paragraph response to this question.
 
-#### Does the `for` loop on lines 4 and 5 of `floating-point-confusion` produce the value of `1.0`? Why?
+#### Does the `for` loop on lines 4 and 5 of `floating-point-confusion` produce the value of `1.0`? Why or why not?
 
 TODO: Provide a one-paragraph response to this question.
