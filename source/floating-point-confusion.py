@@ -1,3 +1,13 @@
+# TODO: Make sure that you understand each of the source
+# code statements in the following function
+#
+# TODO: You should be able to explain when the result conforms
+# to your expectations because of your knowledge of mathematics
+# and when it diverges from your expectations
+#
+# TODO: Make sure that you can explain why the results diverge
+# from your expectations in the situations when they do
+
 def floating_point_confusion() -> None:
     """Demonstrate the properties of floating point numbers."""
     # initialize the number to 0.0
@@ -21,5 +31,7 @@ def floating_point_confusion() -> None:
         print(f"The value of {number} is not equal to {multiply_number}!")
 
 
+# TODO: call the function that will illustrate some of the "strange" properties
+# of using floating point numbers in Python.
 print("Illustrating some strange properties of floating-point numbers!")
 floating_point_confusion()
