@@ -33,6 +33,13 @@ TODO: Provide a one-paragraph response to this question.
 
 TODO: Provide a one-paragraph response to this question.
 
-#### Does the `for` loop on lines 4 and 5 of `floating-point-confusion` produce the value of `1.0`? Why or why not?
+#### Does the `for` loop in the `floating-point-confusion` produce the value of `1.0`? Why or why not?
 
 TODO: Provide a one-paragraph response to this question.
+
+NOTE: For your reference, here is the source code that contains the `for` loop:
+
+```python
+for _ in range(10):
+    number = number + 0.1
+```
