@@ -1,19 +1,16 @@
 # Numerical Data
 
-TODO: Make sure that you delete all of the TODO markers and prompts
-in this file and replace them with the required text. Ultimately,
-this document should be written and formatted in a professional
-fashion that is suitable for publication on a web site or blog.
-
 ## Add Your Name Here
 
 ## Program Output
 
-### What is the output from running the following commands?
+### What is the output from running the following command?
 
 TODO: Use a fenced code block to provide the output for this command.
 
 - `python determine-even-odd.py`
+
+### What is the output from running the following command?
 
 TODO: Use a fenced code block to provide the output for this command.
 
@@ -29,7 +26,7 @@ TODO: Provide a one-paragraph response to this question.
 
 TODO: Provide a one-paragraph response to this question.
 
-#### Does the computation `10.0 * 0.1` produce the value of `1.0`? Why or why not?
+#### Does the computation `10.0 * 0.1` produce the value of `1.0`? Why?
 
 TODO: Provide a one-paragraph response to this question.
 
@@ -43,3 +40,7 @@ NOTE: For your reference, here is the source code that contains the `for` loop:
 for _ in range(10):
     number = number + 0.1
 ```
+
+#### How does running the source code in this project differ from running the same code in a Jupyter notebook?
+
+TODO: Provide a one-paragraph response to this question.
