@@ -1,5 +1,16 @@
 # Numerical Data
 
+TODO: Please make sure that you also completely delete the TODO markers and
+their labels from every line of the `writing/reflection.md` file. This means
+that you should not simply delete the `TODO` marker but instead delete the
+entire prompt so that your reflection is a document that contains polished
+technical writing that is suitable for publication on your professional web
+site.
+
+TODO: Make sure that all aspects of the writing/reflection.md` correctly use all
+of the features of the Markdown standard. This means that, when you preview your
+Markdown inside of GitHub is should always be formatted in a suitable fashion.
+
 ## Add Your Name Here
 
 ## Program Output
